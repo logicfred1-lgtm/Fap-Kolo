@@ -1,71 +1,134 @@
 # Privacy Policy for Fap Kolo
 
-**Last Updated: September 9, 2026**
+**Last Updated: September 18, 2026**
 
-Fap Kolo respects your privacy. This Privacy Policy explains what information Fap Kolo stores and processes when you use the game.
+Fap Kolo is provided by Tchoutezo Tedonzong. This policy explains how information is handled when you play the game, use online multiplayer, make purchases, or contact support.
 
-## Information Stored on Your Device
+**Privacy and support contact:** [Logic.fred1@gmail.com](mailto:Logic.fred1@gmail.com)
 
-Fap Kolo may store the following information locally on your device:
+## 1. Information Stored on Your Device
 
-* Your profile and player name
-* Current match information
-* Adventure progress
-* Earned rewards
-* Equipped cosmetic items
-* Sound and music settings
-* Touch feedback settings
-* Hand skin tone
-* Shake preference
+Fap Kolo stores information locally to remember your preferences and progress. Depending on the features you use, this includes:
 
-This information is used to provide game functionality and preserve your preferences and progress.
+* Player name, avatar, and appearance selections
+* Saved local matches and adventure progress
+* Rewards, achievements, and in-game currency balances
+* Cosmetic unlocks and equipped items
+* Personalization settings, including engraving text
+* Sound, music, animation, and touch-feedback preferences
+* Throwing method, hand appearance, and shake preferences
+* A generated credential used to access your online guest profile
 
-## Online Play
+Local storage is used for game functionality. Your online guest credential should be kept private and should not be included in support messages.
 
-When you use online play, Fap Kolo may send and store your **player name, guest profile identifier, character selection, and room/game state** on the game service as necessary to provide multiplayer functionality.
+## 2. Online Multiplayer
 
-Your player name and selected character may be visible to other players participating in the same room.
+When you create or update an online guest profile or participate in online play, the game service processes and stores information needed to operate those features, including:
 
-Fap Kolo uses a generated guest identifier to associate you with your guest profile. Fap Kolo does not require a password-based account for guest play.
+* Your chosen player name and avatar
+* A generated guest profile identifier
+* Selected avatar customizations, cosmetic styles, and player title
+* Room membership and game settings
+* Game actions, match state, and results
+* Connection activity and timestamps used to manage turns and disconnections
 
-## How Information Is Used
+Your player name, avatar, selected appearance, and relevant game activity may be visible to other players in your room or match, including players matched through online matchmaking.
 
-Information collected by Fap Kolo is used only for **app functionality**, including maintaining your guest profile and providing multiplayer game features.
+You do not need to provide a real name or create a password-based account for guest play. We recommend using a nickname that does not identify you.
 
-Fap Kolo does not use this information for advertising, marketing, analytics, or tracking.
+Offline game modes do not require participation in online multiplayer.
 
-## Advertising and Analytics
+## 3. How Information Is Used
 
-Fap Kolo does not include advertising or analytics SDKs and does not use your information for cross-app or cross-website tracking.
+Information is used to:
 
-## In-App Purchases
+* Save preferences and game progress
+* Create and maintain online guest profiles
+* Operate multiplayer rooms and synchronize matches
+* Manage reconnections, disconnections, and match results
+* Verify and restore cosmetic purchase ownership
+* Respond to support and privacy requests
+* Diagnose service problems and maintain reliable operation
 
-Fap Kolo may offer optional cosmetic upgrades through Apple's In-App Purchase system.
+Fap Kolo does not use gameplay or profile information for targeted advertising or cross-app or cross-website tracking.
 
-On supported iOS versions, purchases are processed by Apple. Fap Kolo may verify ownership of purchased items to unlock the corresponding cosmetic content.
+## 4. Advertising, Analytics, and Technical Processing
 
-Fap Kolo does not receive or store your payment card details.
+Fap Kolo does not include advertising or third-party analytics SDKs.
 
-## Data Sharing
+Online services necessarily receive network information, such as an IP address, when your device connects. Infrastructure providers may process connection information and operational logs to deliver, secure, and troubleshoot the service. This is separate from advertising tracking.
 
-Fap Kolo does not sell your personal information.
+## 5. In-App Purchases
 
-Information necessary for online multiplayer functionality may be processed by the services used to operate the game.
+Optional cosmetic purchases in the iOS app are processed through Apple’s In-App Purchase system.
 
-## Data Retention and Deletion
+The app uses Apple’s purchase and transaction information to verify ownership, unlock purchased content, and restore eligible purchases. Fap Kolo does not receive or store your payment card details.
 
-Information stored locally can be removed by deleting the app or clearing its stored application data.
+Apple handles payment information and maintains its own transaction records under its privacy policy:
 
-Online guest profile and multiplayer information may be retained by the game service as necessary to provide game functionality.
+https://www.apple.com/legal/privacy/
 
-## Children's Privacy
+Removing the game or requesting deletion of game data does not automatically delete Apple’s transaction records or issue a refund.
 
-Fap Kolo does not knowingly collect personal information from children for advertising, marketing, analytics, or tracking purposes.
+## 6. Information Sharing
 
-## Changes to This Privacy Policy
+Fap Kolo does not sell personal information.
 
-This Privacy Policy may be updated when Fap Kolo's features or data practices change. Updates will be published on this page with a revised "Last Updated" date.
+Information is disclosed as needed to provide the features you use:
 
-## Contact
+* Other players receive the profile and gameplay information necessary for shared matches.
+* Hosting and database providers process information needed to operate online multiplayer.
+* Apple processes purchases and supplies information used to verify ownership.
+* Email providers process messages you send to support.
 
-For questions about this Privacy Policy or Fap Kolo's privacy practices, please use the support contact information provided on the Fap Kolo App Store listing.
+Information may also be disclosed when required by applicable law or necessary to address fraud, abuse, or security incidents.
+
+## 7. Support Messages
+
+If you contact support, we receive your email address and the information you include, such as your device model, operating-system version, screenshots, and problem description.
+
+Please do not send passwords, guest access credentials, payment card details, or unnecessary personal information.
+
+## 8. Retention and Deletion
+
+Local game data remains on your device until it is removed or overwritten. Deleting the app generally removes its local app data; device or cloud backups may retain copies according to your backup settings.
+
+Deleting the app does not automatically delete information already stored by the online game service.
+
+The current online service does not automatically delete guest profiles or stored room records after a fixed period. These records may remain until manually deleted.
+
+To request access, correction, or deletion of online information, email **[Logic.fred1@gmail.com](mailto:Logic.fred1@gmail.com)** with the subject **“Fap Kolo Privacy Request.”** Initially, provide your player name and a description of your request. Additional information may be needed to identify the correct profile and verify that the request concerns your data. Do not send your guest access credential.
+
+Avoid deleting your local app data before contacting support if you need help identifying an online profile.
+
+You may stop further multiplayer activity by leaving online play and using offline modes. This does not remove previously stored online records.
+
+## 9. Children’s Privacy
+
+Online multiplayer processes player names, guest identifiers, and game activity as described above, including when those features are used by a child.
+
+Children should avoid using real names or sharing identifying information through player names or support messages. Parents and guardians can contact **[Logic.fred1@gmail.com](mailto:Logic.fred1@gmail.com)** with questions or requests concerning a child’s information.
+
+Fap Kolo does not use children’s information for advertising or cross-app tracking.
+
+## 10. Security
+
+The online guest profile system uses a generated access credential, and the game service stores a hashed identifier associated with that credential.
+
+No method of transmission or storage can guarantee absolute security. Keep your device secure and do not share your guest access credential.
+
+## 11. Your Privacy Choices
+
+Depending on where you live, you may have rights to access, correct, delete, or restrict certain uses of your personal information.
+
+Contact **[Logic.fred1@gmail.com](mailto:Logic.fred1@gmail.com)** to ask about your information or exercise an applicable privacy right.
+
+## 12. Changes to This Policy
+
+This policy may be updated when game features or information-handling practices change. The revised policy will be published with an updated “Last Updated” date.
+
+## 13. Contact
+
+**Developer:** Tchoutezo Tedonzong
+**App:** Fap Kolo
+**Email:** [Logic.fred1@gmail.com](mailto:Logic.fred1@gmail.com)
